@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there I'm Furkan and I'm a Frontend Developer 👋
 [![](https://visitcount.itsvg.in/api?id=furkancetintas&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
